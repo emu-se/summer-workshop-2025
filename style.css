@@ -1,3 +1,7 @@
+/* Highlighted important info */
+.highlight {
+  font-weight: bold;
+}
 /* style.css */
 
 body {
